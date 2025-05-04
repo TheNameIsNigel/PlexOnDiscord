@@ -1,0 +1,20 @@
+{
+  "token": "DISCORDAUTHTOKEN",
+  "acceptedAuthors": ["YOURUSERID"],
+
+  "plex": {
+    "host": "http://192.168.1.1:32400",
+    "token": "PLEXTOKEN"
+  },
+
+  "streamOpts": {
+    "width": 1280,
+    "height": 720,
+    "fps": 30,
+    "bitrateKbps": 5000,
+    "maxBitrateKbps": 8000,
+    "hardware_acceleration": true,
+    "videoCodec": "h264"
+  },
+  "audioBitrateKbps": 128
+}

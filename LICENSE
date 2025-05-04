@@ -1,0 +1,55 @@
+Plex on Discord Restricted Source License (PoDRSL) Version 1.0
+
+Preamble
+
+This Plex on Discord Restricted Source License ("License") governs the use, reproduction, modification, and distribution of the accompanying software known as "Plex on Discord" ("Software"). The aim of this License is to permit non-commercial sharing, modification, and collaboration while ensuring that the original creators receive attribution and that all derivative works remain available under these same restrictive terms.
+
+1. Definitions
+
+"License" refers to this Plex on Discord Restricted Source License, Version 1.0.
+"Software" refers to the original computer code, documentation, and associated files provided under this License by the Original Author(s).
+"Original Author(s)" refers to the copyright holder(s) of the Software as initially distributed.
+"You" (or "Your") means an individual or legal entity exercising permissions granted by this License.
+"Source Code" means the preferred form of the Software for making modifications to it.
+"Derivative Work" means any work based upon the Software, or upon the Software and other pre-existing works, such as a translation, modification, adaptation, enhancement, port, or any other form in which the Software may be recast, transformed, or adapted. For the purposes of this license, linking statically or dynamically to the Software is considered creating a Derivative Work.
+"Distribute" means to make copies available to others, electronically or otherwise.
+"Commercial Use" means any use of the Software or a Derivative Work:
+a) primarily intended for or directed toward commercial advantage or monetary compensation;
+b) as part of a product or service that is sold, licensed for a fee, or otherwise generates revenue directly;
+c) in connection with any business, enterprise, or undertaking operated for profit, including but not limited to use in internal operations, providing support services for a fee, or using it to attract customers to a paid offering;
+d) involving the collection or processing of data for commercial purposes. Use by non-profit organizations in their non-commercial activities is generally not considered Commercial Use, but use by such organizations in revenue-generating activities may qualify as Commercial Use. If in doubt, assume a use is Commercial.
+2. Grant of Rights
+
+Subject to the terms and conditions of this License, the Original Author(s) hereby grant You a worldwide, royalty-free, non-exclusive, perpetual license to:
+
+a) Use the Software for Non-Commercial Use only.
+b) Reproduce the Software.
+c) Create Derivative Works of the Software.
+d) Distribute the Software and Derivative Works.
+3. Conditions
+
+Your exercise of the rights granted in Section 2 is subject to the following conditions:
+
+a) Non-Commercial: You may not use, reproduce, modify, or Distribute the Software or any Derivative Works for any Commercial Use.
+b) Attribution: You must retain all copyright, patent, trademark, and attribution notices that are present in the Software. If You Distribute the Software or Derivative Works, You must provide attribution to the Original Author(s) in a manner reasonable for the medium of distribution (e.g., in documentation, an "About" screen, or a README file), including:
+i) The name of the Original Author(s) and the project "Plex on Discord".
+ii) A notice that the Software is licensed under the PoDRSL Version 1.0.
+iii) A copy of, or URI/link to, this License text.
+iv) In the case of Derivative Works, a statement indicating that the work is a derivative and briefly describing the modifications made.
+  
+c) Share-Alike: If You Distribute a Derivative Work, You must license the entire Derivative Work as a whole under this exact same Plex on Discord Restricted Source License (PoDRSL) Version 1.0. You must also make the complete corresponding Source Code of the Derivative Work available recipients upon request, under the terms of this License. You may not apply any additional terms or technological measures that restrict recipients' exercise of the rights granted under this License.
+4. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE ORIGINAL AUTHOR(S) OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.   
+
+5. Limitation of Liability
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.   
+
+6. Termination   
+
+Your rights under this License will terminate automatically if You fail to comply with any of its terms and conditions. Upon termination, You must cease all use, reproduction, modification, and distribution of the Software and Derivative Works. Provisions that, by their nature, must remain in effect beyond the termination of this License shall survive.   
+
+7. Acceptance
+
+By using, reproducing, modifying, or distributing the Software or any Derivative Work, You indicate Your acceptance of this License and agree to be bound by its terms and conditions.
