@@ -1,6 +1,6 @@
 
 
-# Plex on Discord
+# PoD
 
 Discord self-bot that joins your voice channel and plays Plex movies or TV episodes (video + audio) with simple chat commands. Perfect for streaming your Plex library directly into any server you control.
 
@@ -30,8 +30,8 @@ Discord self-bot that joins your voice channel and plays Plex movies or TV episo
 
 1. **Clone this repo**  
    ```bash
-   git clone https://github.com/TheNameIsNigel/PlexOnDiscord.git
-   cd PlexOnDiscord
+   git clone https://github.com/TheNameIsNigel/PoD.git
+   cd PoD
 ``
 
 2. **Install dependencies**
