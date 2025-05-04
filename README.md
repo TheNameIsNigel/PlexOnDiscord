@@ -1,4 +1,5 @@
 
+
 # Plex on Discord
 
 Discord self-bot that joins your voice channel and plays Plex movies or TV episodes (video + audio) with simple chat commands. Perfect for streaming your Plex library directly into any server you control.
@@ -124,6 +125,12 @@ PRs and issues are welcome! Feel free to open a feature request or submit a bug-
 ## 📄 License
 
 This project is licensed under the **PoDRSL License**. See [LICENSE](LICENSE) for details.
+
+---
+
+## 🤝 Credits
+
+This project uses the [Discord-video-stream](https://github.com/Discord-RE/Discord-video-stream) library from dank074, as well as the [discord.js-selfbot-v13 library](https://discordjs-self-v13.netlify.app/).
 
 ```
 ```
