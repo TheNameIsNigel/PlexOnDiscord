@@ -123,7 +123,7 @@ PRs and issues are welcome! Feel free to open a feature request or submit a bug-
 
 ## 📄 License
 
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
+This project is licensed under the **PoDRSL License**. See [LICENSE](LICENSE) for details.
 
 ```
 ```
